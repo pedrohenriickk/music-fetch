@@ -3,8 +3,11 @@ Aplicação em JavaScript que consome uma API de música para buscar informaçõ
 
 #Estrutura do Projeto
 
-musica-fetch/ ├── css/ │ └── style.css
-├── js/ │ └── script.js
+musica-fetch/ 
+├── css/ 
+│ └── style.css
+├── js/ 
+│ └── script.js
 ├── index.html
 └── README.md
 
